@@ -3,8 +3,8 @@ This is a simple command line tool built with Go that enables you to create a to
 
 ### About
 0. version 1.0.0
-1. Built with GO, (must install Go on your machine)
-2. run todo.exe depending on your operatig system 
+1. Built with Golang, (must install Go on your machine)
+2. run todo.exe depending on your operating system 
 4. ***-t*** command sets ***type*** of action (add, complete, delete or list)
 5. ***-v*** sets the ***value***, must be a string or text only
 
