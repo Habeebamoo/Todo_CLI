@@ -9,8 +9,8 @@ import (
 )
 
 type Todo struct {
-	Name			 string	`json:"name"`
-	Completed  bool  	`json:"completed"`
+	Name string `json:"name"`
+	Completed bool `json:"completed"`
 }
 
 func loadTodo() ([]Todo, error) {
